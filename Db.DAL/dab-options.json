@@ -1,0 +1,14 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "MergeDacpacs": false,
+   "Optional": false,
+   "ProjectPath": "D:\\Download\\LearnApi\\LearnApi\\Db.DAL",
+   "Tables": [
+      {
+         "Name": "[dbo].[invoice]",
+         "ObjectType": 0
+      }
+   ]
+}
